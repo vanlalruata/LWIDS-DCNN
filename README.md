@@ -1,1 +1,2 @@
-# IDS-based-on-IO-DCNN
+# IDS based on Improved One-dimensional Convolutional Neural Network
+
