@@ -23,12 +23,15 @@ Elsevier
 3 May 2025
 
 ## Article accepted for publication
-24 Jun 2025
+24 June 2025
 
 ## DoI
-
+10.1016/j.compeleceng.2025.110561
 
 ## URL
-
+https://www.sciencedirect.com/science/article/pii/S004579062500504X
 
 ## How to cite
+Vanlalruata Hnamte, Ashfaq Ahmad Najar, Chhakchhuak Laldinsanga, Jamal Hussain, Lal Hmingliana, "A lightweight intrusion detection system using deep convolutional neural network," Computers and Electrical Engineering, Volume 127, Part A, 110561, 2025.
+DoI: 10.1016/j.compeleceng.2025.110561.
+
